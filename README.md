@@ -1,4 +1,4 @@
-# Image Slider Project
+# Image Slider Animation
 
 This project consists of a simple image slider that allows users to navigate through a series of images using mouse or touch gestures.
 

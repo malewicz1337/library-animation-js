@@ -19,3 +19,6 @@ This JavaScript file provides the interactive functionality of the image slider.
 ## Note
 
 The project currently uses placeholder images from Unsplash.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
